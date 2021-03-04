@@ -1,0 +1,24 @@
+{
+  "name": "node-fundamental-theory",
+  "version": "1.0.0",
+  "description": "NodeJS Fundamental Theory",
+  "main": "index.js",
+  "scripts": {
+    "task1": "nodemon ./Task1-1/task1-1.js",
+    "pub": "git add . && git commit -m \"Updates\" && git push && git status"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdgarGGamartgo/node-fundamental-theory.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdgarGGamartgo/node-fundamental-theory/issues"
+  },
+  "homepage": "https://github.com/EdgarGGamartgo/node-fundamental-theory#readme",
+  "dependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
