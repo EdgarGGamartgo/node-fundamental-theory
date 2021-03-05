@@ -1,5 +1,3 @@
-
-
 const csvtojson = require('csvtojson')
 const fs = require('fs')
 
